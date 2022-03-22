@@ -57,6 +57,7 @@ img {
     font-weight: bold;
     font-size: 30px;
     border-bottom: 2px solid rgba(248, 40, 144, 0.315);
+    text-align: left;
 }
 
 .post {
@@ -65,21 +66,23 @@ img {
     border: 3px solid rgba(248, 40, 144, 0.315);
     margin: 40px 40px;
     border-radius: 15px;   
-    
+    text-align: center;
 }
 .post .citiesList li{
     display: inline-block; 
     padding: 20px;
     font-size: 20px;
     font-weight: bold;
-
+    text-align: left;
 }
 
 .footer {
+    font-family: 'Courier New', Courier, monospace;
     font-size: 15px;
     background-color: rgba(80, 255, 109, 0.651);
     text-align: center;
-    padding: 10px 600px;
     cursor: pointer;
     border-radius: 10px 10px 0 0;
+    padding: 10px;
+    
 }
