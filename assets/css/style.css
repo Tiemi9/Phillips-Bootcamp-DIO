@@ -1,3 +1,19 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background: linear-gradient(to left top, coral, blueviolet);
+}
+#tittle {
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(88, 20, 151);
+}
+.headImage {
+    width: 200px;
+}
+
 img {
     width: auto;
     height: 180px;
