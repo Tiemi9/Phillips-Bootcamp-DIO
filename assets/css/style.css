@@ -3,11 +3,11 @@
     align-items: center;
     justify-content: space-between;
     padding: 10px;
-    background: linear-gradient(to left top, blueviolet, coral);
+    background: linear-gradient(to left top, rgba(137, 43, 226, 0.452), rgba(255, 127, 80, 0.459));
     margin-bottom: 20px;
 }
 #tittle {
-    font-size: 80px;
+    font-size: 100px;
     color: #fff;
     font-family: 'Inspiration', cursive;
     margin-right: 30px;
@@ -16,17 +16,42 @@
     width: 300px;
 }
 body {
-    background-color: aquamarine;
+    background-color: rgba(255, 127, 80, 0.089);
+    border-radius: 20px;
+    font-family: 'Indie Flower', cursive;
+}
+.introduction {
+    margin: 20px;
+    text-align: justify;
+    padding: 20px;
+    line-height: 20px;
 }
 
 img {
     width: auto;
     height: 180px;
+    border-radius: 5px;
+    border: 3px solid #fff;
+    
 }
 .subtittle {
     font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.postTittle {
+    padding: 30px;
+    font-weight: bold;
     font-size: 30px;
 }
+.post {
+    background: linear-gradient(to left top,  rgba(86, 46, 197, 0.308), rgba(11, 185, 46, 0.253));
+    padding: 10px;
+    border: 3px solid rgba(248, 40, 144, 0.315);
+    margin: 40px 80px;
+    border-radius: 15px;
+}
+
 
 .footer {
     font-size: 15px;
