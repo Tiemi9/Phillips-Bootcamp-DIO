@@ -15,8 +15,23 @@
 .headImage {
     width: 300px;
 }
+body {
+    background-color: aquamarine;
+}
 
 img {
     width: auto;
     height: 180px;
+}
+.subtittle {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.footer {
+    font-size: 15px;
+    background-color: rgba(80, 255, 109, 0.651);
+    text-align: center;
+    padding: 10px 600px;
+    cursor: pointer;
 }
