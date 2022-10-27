@@ -2,7 +2,7 @@
 
 > Projeto proposto em Bootcamp - DIO & Phillips
 
-![preview](./.github/preview.jpg)
+[preview](./.github/preview.jpg)
 
 [Clique aqui para acessar!!👈](https://tiemi9.github.io/Phillips-Bootcamp-DIO)
 
